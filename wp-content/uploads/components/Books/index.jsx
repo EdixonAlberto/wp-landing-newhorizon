@@ -1,9 +1,10 @@
 // DYNAMIC-URL
-const { search } = window.location
+const { search, origin } = window.location
 const queryString = search.substring(1)
-const [category] = queryString.split('&')[0].split('=')
-const categoryName = category.toLowerCase()
-history.pushState(null, '', categoryName)
+if (!queryString) window.location.href = origin
+const [categoryLink] = queryString.split('&')[0].split('=')
+const categoryKey = decodeURI(categoryLink)
+history.pushState(null, '', categoryKey)
 
 // _____________________________________________________________________________________________________________________
 
@@ -40,18 +41,22 @@ function usePagination({ items = [], size = 12 }) {
 }
 
 function Books() {
-  const [books] = useState(JSON.parse(localStorage.getItem('store'))['books'][categoryName])
+  const books = JSON.parse(localStorage.getItem('store'))['books'][categoryKey]
   const { current, pages, display, next, previous } = usePagination({ items: books })
 
-  const name = 'Arte'
+  function getTitle(key) {
+    const name = key.split('-').join(' ')
+    const title = name.substring(0, 1).toUpperCase() + name.substring(1)
+    return title
+  }
 
   return (
     <div className="books">
       <h2 className="books-title">
-        Libros de {name} ({books.length})
+        Libros de {getTitle(categoryKey)} ({books.length})
       </h2>
 
-      {books.length ? (
+      {display.length ? (
         <ul className="books-container">
           {display.map(book => (
             <li key={book.id} className="books-item">

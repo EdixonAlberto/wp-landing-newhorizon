@@ -14,11 +14,14 @@ body.addEventListener('click', e => {
 
 // _____________________________________________________________________________________________________________________
 
-const { useState } = React
-
 function BookCategory() {
-  const [booksAll] = useState(JSON.parse(localStorage.getItem('store'))['books'])
-  const bookNameList = Object.keys(booksAll)
+  const bookKeyList = Object.keys(JSON.parse(localStorage.getItem('store'))['books'])
+
+  function getTitle(key) {
+    const name = key.split('-').join(' ')
+    const title = name.substring(0, 1).toUpperCase() + name.substring(1)
+    return title
+  }
 
   return (
     <div className="book-category">
@@ -30,10 +33,10 @@ function BookCategory() {
       <div className="book-category-subjects">
         <h2 className="book-category-title">MATERIAS</h2>
         <ul className="book-category-container">
-          {bookNameList.map((name, index) => (
+          {bookKeyList.map((key, index) => (
             <li key={index} className="book-category-item">
-              <a href={`${window.origin}/books/?${name}`} target="_blank" rel="noopener noreferrer">
-                {name}
+              <a href={`${window.origin}/books/${key}`} target="_self" rel="noopener noreferrer">
+                {getTitle(key)}
               </a>
             </li>
           ))}

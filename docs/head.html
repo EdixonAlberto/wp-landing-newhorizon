@@ -9,3 +9,22 @@
 <!-- BOOKS -->
 <script defer type="text/babel" src="/wp-content/uploads/components/Books/index.jsx"></script>
 <link rel="stylesheet" href="/wp-content/uploads/components/Books/Books.css" />
+
+<!-- 404 -->
+<script>
+  const { pathname, origin } = window.location
+  const [, pathBooks, categoryLink] = pathname.split('/')
+  const categoryKeyLink = decodeURI(categoryLink)
+  let pathRedirect = origin
+  if (pathBooks === 'books') {
+    const categoryKeyList = Object.keys(JSON.parse(localStorage.getItem('store'))['books'])
+    for (let i = 0; i < categoryKeyList.length; i++) {
+      const categoryKey = categoryKeyList[i]
+      if (categoryKey === categoryKeyLink) {
+        pathRedirect = `${origin}/books/?${categoryKey}`
+        break
+      }
+    }
+  }
+  window.location.href = pathRedirect
+</script>

@@ -95,28 +95,1535 @@
       "price": "$41.95"
     }
   ],
-  "biografía e historia": [],
-  "ciencias de la tierra, geografía, medioambiente": [],
-  "computación e informática": [],
-  "consulta, información y materias interdisciplinari": [],
-  "deporte": [],
-  "derecho": [],
-  "desarrollo personal y salud": [],
-  "economía. finanzas. empresa y gestión": [],
-  "espiritualidad": [],
-  "estilo de vida": [],
-  "ficción": [],
-  "humanidades": [],
-  "infantiles": [],
-  "juveniles": [],
-  "lengua": [],
-  "libros de regalo": [],
-  "literatura y estudios literarios": [],
-  "matemáticas y ciencia": [],
-  "material didáctico": [],
+  "biografía-e-historia": [
+    {
+      "id": "978846706487",
+      "title": "TODAS UNA VIDA",
+      "author": "MIGUEL ÁNGEL REVILLA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$28.95"
+    },
+    {
+      "id": "978841874166",
+      "title": "THOMAS HOBBES",
+      "author": "HERNÁNDEZ ARIAS, JOSÉ RAFAEL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$27.95"
+    },
+    {
+      "id": "978840826440",
+      "title": "ANTES DEL OLVIDO",
+      "author": "JORGE JAVIER VÁZQUEZ",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$28.95"
+    },
+    {
+      "id": "978841903610",
+      "title": "CARTAS ESCOGIDAS (1888-1922)",
+      "author": "MARCEL PROUST",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$39.95"
+    },
+    {
+      "id": "978842336209",
+      "title": "ESTO NO SE DICE",
+      "author": "ALEJANDRO PALOMAS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$27.95"
+    },
+    {
+      "id": "978844933979",
+      "title": "MARCEL PROUST",
+      "author": "ROLAND BARTHES",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$30.95"
+    },
+    {
+      "id": "978841874160",
+      "title": "MEMORIAS DE UN MONJE BUDISTA",
+      "author": "MATTHIEU RICARD",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$33.95"
+    },
+    {
+      "id": "978841251969",
+      "title": "MI DIOS NO VE",
+      "author": "RAUL ZURITA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$39.95"
+    },
+    {
+      "id": "978842336206",
+      "title": "INSEPARABLES",
+      "author": "IRVIN D. YALOM; MARILYN YALOM",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$25.95"
+    },
+    {
+      "id": "978841828279",
+      "title": "YOU ARE BEAUTIFUL AND YOU ARE ALONE: LA BIOGRAFÍA DE NICO",
+      "author": "JENNIFER OTTER BICKERDIKE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$34.95"
+    },
+    {
+      "id": "978841903607",
+      "title": "EN MEMORIA DE LA MEMORIA",
+      "author": "MARÍA STEPÁNOVA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$35.95"
+    },
+    {
+      "id": "978841107159",
+      "title": "IMÁGENES",
+      "author": "RUBEN BONIFAZ NUÑO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$32.95"
+    }
+  ],
+  "ciencias-de-la-tierra,-geografía,-medioambiente": [
+    {
+      "id": "978841228889",
+      "title": "EL CAMBIO CLIMÁTICO",
+      "author": "KRAUSS, LAWRENCE M.",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$32.95"
+    },
+    {
+      "title": "PERDIENDO LA TIERRA",
+      "author": "NATHANIEL RICH",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$22.95"
+    },
+    {
+      "title": "LA SEXTA EXTINCIÓN",
+      "author": "ELIZABETH KOLBERT",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$23.95"
+    },
+    {
+      "title": "LA PRIMERA VUELTA AL MUNDO [EDICIÓN ILUSTRADA]",
+      "author": "ANTONIO PIGAFETTA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$32.95"
+    },
+    {
+      "title": "EL MAR QUE NOS RODEA",
+      "author": "RACHEL CARSON",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "24.95"
+    },
+    {
+      "title": "NUESTRO PLANETA",
+      "author": "KEITH SCHOLEY; ALASTAIR FOTHERGILL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "38.95"
+    },
+    {
+      "title": "MARAVILLAS DEL MUNDO NATURAL",
+      "author": "EQUIPO DK",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "50.00"
+    },
+    {
+      "title": "LA TIERRA VISTA DESDE EL CIELO",
+      "author": "YANN ARTHUS-BERTRAND",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "76.95"
+    },
+    {
+      "title": "ASIA Y OCEANÍA",
+      "author": "EQUIPO NATIONAL GEOGRAPHIC; EQUIPO TASCHEN",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "70.00"
+    },
+    {
+      "title": "HACIA LA CIUDAD DE UMBRALES",
+      "author": "STAVROS STAVRIDES",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "24.25"
+    },
+    {
+      "title": "QUÉ PASARÍA SI … ?",
+      "author": "RANDALL MUNROE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$18.95"
+    },
+    {
+      "title": "EL SENTIDO DEL ASOMBRO",
+      "author": "RACHEL CARSON",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$7.95"
+    },
+    {
+      "title": "EL MAPA CULTURAL",
+      "author": "[ERIN MEYER]",
+      "availability": "[En inventario - consultar disponibilidad]",
+      "price": "28.95"
+    },
+    {
+      "title": "EL JARDINERO HORTICULTOR",
+      "author": "SIDNEY FLAMENT ORTUN; JEAN-MARTIN FORTIER",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "31.95"
+    },
+    {
+      "title": "CONOCER LA METEOROLOGÍA",
+      "author": "VIÑAS, JOSÉ MIGUEL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "42.95"
+    },
+    {
+      "title": "TERRITORIO Y TURISMO MUNDIAL",
+      "author": "MARTÍN RODA, EVA MARÍA; NIETO CODINA, AURELIO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "58.95"
+    }
+  ],
+  "computación-e-informática": [
+    {
+      "id": "978844154390",
+      "title": "CURSO DE ESCULTURA DIGITAL CON ZBRUSH",
+      "author": "SASTRE ANTORANZ, CARLOS; ALPERI FERNANDEZ, PALOMA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$38.95"
+    },
+    {
+      "id": "978844154414",
+      "title": "CURSO DE DESARROLLO WEB. HTML, CSS Y JAVASCRIPT. EDICIÓN 2021",
+      "author": "RUBIALES GÓMEZ, MARIO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$39.95"
+    },
+    {
+      "id": "978844154264",
+      "title": "APRENDE MACHINE LEARNING CON SCIKIT-LEARN, KERAS Y TENSORFLOW",
+      "author": "GÉRON, AURÉLIEN",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$89.95"
+    },
+    {
+      "id": "978842343131",
+      "title": "SUPERPOTENCIAS DE LA INTELIGENCIA ARTIFICIAL",
+      "author": "KAI FU LEE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$26.95"
+    },
+    {
+      "id": "978844154187",
+      "title": "GROWTH HACKING",
+      "author": "LUIS DÍAZ DEL DEDO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$25.95"
+    },
+    {
+      "id": "978844154164",
+      "title": "CURSO DE MARKETING DIGITAL",
+      "author": "MIGUEL ÁNGEL FLORIDO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$28.95"
+    },
+    {
+      "id": "978844154113",
+      "title": "TÉCNICAS DE ANIMACIÓN. DIBUJOS ANIMADOS, ANIMACIÓN 3D Y VIDEOJUEGOS",
+      "author": "RICHARD WILLIAMS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$57.00"
+    },
+    {
+      "id": "978844154104",
+      "title": "CÓMO HACER ESTO EN LIGHTROOM CLASSIC?",
+      "author": "SCOTT KELBY",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$36.95"
+    },
+    {
+      "id": "978844154078",
+      "title": "LIGHTROOM REVOLUTION",
+      "author": "JOSÉ MARÍA MELLADO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$59.00"
+    },
+    {
+      "id": "978844153990",
+      "title": "ARQUITECTURA LIMPIA",
+      "author": "ROBERT C. MARTIN",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$54.95"
+    },
+    {
+      "id": "978843061871",
+      "title": "EL FILTRO BURBUJA",
+      "author": "ELI PARISER",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$23.95"
+    },
+    {
+      "id": "978844153727",
+      "title": "NO ME HAGAS PENSAR. ACTUALIZACIÓN",
+      "author": "STEVE KRUG",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$28.95"
+    },
+    {
+      "id": "978844153210",
+      "title": "CÓDIGO LIMPIO",
+      "author": "ROBERT C. MARTIN",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$59.95"
+    },
+    {
+      "id": "978844152754",
+      "title": "HAZ FÁCIL LO IMPOSIBLE",
+      "author": "STEVE KRUG",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$27.95"
+    },
+    {
+      "id": "978607162229",
+      "title": "EL NEGOCIO DE LA EDICIÓN DIGITAL",
+      "author": "FRANIA HALL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$20.95"
+    },
+    {
+      "id": "978844154459",
+      "title": "POSICIONAMIENTO Y REPUTACIÓN ONLINE A TRAVÉS DE LINK BUILDING ÉTICO",
+      "author": "SICO DE ANDRÉS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$31.95"
+    },
+    {
+      "id": "978844154587",
+      "title": "EL PROGRAMADOR PRAGMÁTICO. EDICIÓN ESPECIAL",
+      "author": "DAVID THOMAS; ANDREW HUNT",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$56.95"
+    },
+    {
+      "id": "978844154555",
+      "title": "DISEÑO DE SISTEMAS",
+      "author": "ALEX XU",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$47.95"
+    },
+    {
+      "id": "978844154469",
+      "title": "NEGOCIOS ONLINE",
+      "author": "PABLO MORATINOS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$32.95"
+    },
+    {
+      "id": "978844154434",
+      "title": "CURSO DE POWER BI",
+      "author": "ANA MARÍA BISBÉ YORK",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$41.95"
+    }
+  ],
+  "consulta,-información-y-materias-interdisciplinario": [
+    {
+      "id": "978841810062",
+      "title": "ATLAS HISTÓRICO MUNDIAL",
+      "author": "GEORGES DUBY",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$34.95"
+    },
+    {
+      "id": "978849974323",
+      "title": "ATLAS ACTUAL DE GEOGRAFÍA UNIVERSAL VOX",
+      "author": "EQUIPO VOX",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$31.95"
+    },
+    {
+      "id": "978849488486",
+      "title": "MAPAS DEL MUNDO",
+      "author": "EQUIPO ZORRO ROJO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$44.00"
+    },
+    {
+      "id": "978841698423",
+      "title": "ATLAS HISTÓRICO DE ESPAÑA",
+      "author": "EQUIPO LAROUSSE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$21.95"
+    },
+    {
+      "id": "978841696526",
+      "title": "EL ATLAS FANTASMA",
+      "author": "BROOKE HITCHING, EDWARD",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$32.00"
+    },
+    {
+      "id": "978843763583",
+      "title": "ATLAS GLOBAL",
+      "author": "CHRISTIAN GRATALOUP; GILLES FUMEY",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$29.50"
+    },
+    {
+      "id": "978840814502",
+      "title": "ATLAS DE UN MUNDO FASCINANTE",
+      "author": "PHILIP STEELE; GEOPLANETA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$26.95"
+    },
+    {
+      "id": "978840814532",
+      "title": "ATLAS DE LAS CIUDADES PERDIDAS",
+      "author": "AUDE DE TOCQUEVILLE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$31.95"
+    },
+    {
+      "id": "978849974181",
+      "title": "ATLAS ACTUAL DE GEOGRAFÍA UNIVERSAL VOX",
+      "author": "EQUIPO VOX",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$28.95"
+    },
+    {
+      "id": "978846757433",
+      "title": "ATLAS DE LAS ISLAS",
+      "author": "DONALD GRANT",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$12.50"
+    },
+    {
+      "id": "978849416907",
+      "title": "ATLAS DE ISLAS REMOTAS",
+      "author": "JUDITH SCHALANSKY",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$27.95"
+    },
+    {
+      "id": "978843450680",
+      "title": "NUEVO ATLAS UNIVERSAL",
+      "author": "AA.VV",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$84.00"
+    }
+  ],
+  "deporte": [
+    {
+      "id": "978841865516",
+      "title": "MANUAL NSCA. FUNDAMENTOS DEL ENTRENAMIENTO PERSONAL",
+      "authors": "NSCA; BRAD SCHOENFELD; RONALD L. SNARR",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$245.95"
+    },
+    {
+      "id": "978846706400",
+      "title": "LA FORJA DE LA GLORIA",
+      "authors": "ANTONIO ESCOHOTADO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$17.95"
+    },
+    {
+      "id": "978841865503",
+      "title": "DISEÑO DE PROGRAMAS DE ENTRENAMIENTO",
+      "authors": "ALWYN COSGROVE; CRAIG RASMUSSEN",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$56.95"
+    },
+    {
+      "id": "978840823867",
+      "title": "POR QUÉ NADAMOS",
+      "authors": "BONNIE TSUI",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$27.95"
+    },
+    {
+      "id": "978841865501",
+      "title": "CIENCIA Y DESARROLLO DE LA HIPERTROFIA MUSCULAR. NUEVA EDICIÓN AMPLIADA Y ACTUALIZADA",
+      "authors": "BRAD SCHOENFELD",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$78.95"
+    },
+    {
+      "id": "978841667698",
+      "title": "UN PSICÓLOGO EN TU EQUIPO",
+      "authors": "EMILIO GONZÁLEZ NOSTI",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$18.95"
+    },
+    {
+      "id": "978840823454",
+      "title": "MICHAEL JORDAN. LA BIOGRAFÍA DEFINITIVA",
+      "authors": "ROLAND LAZENBY",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$28.95"
+    },
+    {
+      "id": "978841812857",
+      "title": "AIR. LA HISTORIA DE MICHAEL JORDAN",
+      "authors": "HALBERSTAM, DAVID",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978846705865",
+      "title": "ZIDANE",
+      "authors": "HERMEL, FRÉDÉRIC",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978607076730",
+      "title": "MENTALIDAD MAMBA",
+      "authors": "KOBE BRIANT",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$19.95"
+    },
+    {
+      "id": "978844154233",
+      "title": "LAS 100 PERSONAS QUE CAMBIARON EL FÚTBOL",
+      "authors": "GONZÁLEZ ROBLES, GUILLERMO; GARCÍA ARROITA, JUAN; CAMPOY ORTEGA, DIEGO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$29.95"
+    },
+    {
+      "id": "978841667684",
+      "title": "ENTRENAMIENTO FUNCIONAL PARA TRANSFORMAR TODO EL CUERPO : MÁS DE 100 WORKOUTS PARA MEJORAR LA FUERZA, EL ACONDICIONAMIENTO FÍSICO Y LA FUNCIONALIDAD",
+      "authors": "JUAN CARLOS SANTANA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$43.95"
+    }
+  ],
+  "derecho": [
+    {
+      "id": "978146547873",
+      "title": "EL LIBRO DEL CRIMEN",
+      "author": "EQUIPO DK",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$25.00"
+    },
+    {
+      "id": "978843441872",
+      "title": "EL ESPAÑOL JURÍDICO",
+      "author": "ENRIQUE ALCARAZ VARÓ; BRIAN HUGHES; ADELINA GÓMEZ GONZÁLEZ-JOVER",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$29.95"
+    },
+    {
+      "id": "978843440647",
+      "title": "EL INGLÉS JURÍDICO NORTEAMERICANO",
+      "author": "ENRIQUE ALCARAZ VARÓ; CYNTHIA MIGUÉLEZ; MIGUEL ÁNGEL CAMPOS PARDILLOS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$39.95"
+    },
+    {
+      "id": "978968167450",
+      "title": "DERECHO DE AUTOR PARA AUTORES DERECHO DE AUTOR PARA AUTORES",
+      "author": "JOSE LUIS CABALLERO LEAL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$8.95"
+    }
+  ],
+  "desarrollo-personal-y-salud": [
+    {
+      "id": "978840826680",
+      "title": "SER FELIZ ES URGENTE",
+      "author": "DRA. CRISTINA MARTÍNEZ",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$25.95"
+    },
+    {
+      "id": "978840826579",
+      "title": "ATENCIÓN CON LA INFLAMACIÓN",
+      "author": "GABRIELA POCOVÍ GERARDINO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978848459671",
+      "title": "COMER PARA VENCER AL CÁNCER",
+      "author": "PAULA JIMÉNEZ FONSECA; BELÉN ÁLVAREZ ÁLVAREZ",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$29.95"
+    },
+    {
+      "id": "978841256435",
+      "title": "EL MANUAL DE VUDÚ GNÓSTICO",
+      "author": "MICHAEL BERTIAUX",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$33.95"
+    },
+    {
+      "id": "978841245797",
+      "title": "SEDADOS",
+      "author": "JAMES DAVIES",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$29.95"
+    },
+    {
+      "id": "978841874167",
+      "title": "APRENDER A HACER EL AMOR",
+      "author": "ALEXANDRE LACROIX",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978841785186",
+      "title": "MÉDICO MÉDIUM. ZUMO DE APIO",
+      "author": "ANTHONY WILLIAM",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$28.95"
+    },
+    {
+      "id": "978841845989",
+      "title": "GUÍA PRÁCTICA PARA UNA VIDA AUTOSUFICIENTE",
+      "author": "DICK STRAWBRIDGE; JAMES STRAWBRIDGE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$42.95"
+    },
+    {
+      "id": "978844154660",
+      "title": "KETO FÁCIL",
+      "author": "RAQUEL KETO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$29.95"
+    },
+    {
+      "id": "978840826091",
+      "title": "PRACTICAR LA EDUCACIÓN POSITIVA",
+      "author": "MARIE CHETRIT",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$23.95"
+    },
+    {
+      "id": "978842336206",
+      "title": "INSEPARABLES",
+      "author": "IRVIN D. YALOM; MARILYN YALOM",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$25.95"
+    },
+    {
+      "id": "978841344180",
+      "title": "BAÑOS EN AGUAS FRÍAS",
+      "author": "SUSANNA SØBERG",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$23.95"
+    }
+  ],
+  "economía.-finanzas.-empresa-y-gestión": [
+    {
+      "id": "978146548288",
+      "title": "EL LIBRO DE LOS NEGOCIOS",
+      "author": "EQUIPO DK",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$25.00"
+    },
+    {
+      "id": "978842342996",
+      "title": "FACTFULNESS",
+      "author": "HANS ROSLING; OLA ROSLING; ANNA ROSLING RÖNNLUND",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$31.95"
+    },
+    {
+      "id": "978194554033",
+      "title": "OUTLIERS (FUERA DE SERIE)",
+      "author": "MALCOLM GLADWELL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$12.95"
+    },
+    {
+      "id": "978980180185",
+      "title": "CRIPTOMONEDAS",
+      "author": "LUIS RAFAEL PEREIRA-BERTI",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$12.00"
+    },
+    {
+      "id": "978080417078",
+      "title": "VAYAMOS ADELANTE",
+      "author": "SHERYL SANDBERG",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$14.95"
+    },
+    {
+      "id": "978842343127",
+      "title": "EL GRAN LIBRO DE LOS NEGOCIOS ONLINE",
+      "author": "MIQUEL BAIXAS CALAFELL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$31.95"
+    },
+    {
+      "id": "978842343064",
+      "title": "MASTER THE MARKETS",
+      "author": "TOM WILLIAMS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$26.75"
+    },
+    {
+      "id": "978847209730",
+      "title": "LA ECONOMÍA EN UNA LECCIÓN (8ª .EDICIÓN)",
+      "author": "JAVIER MILEY; JUAN RAMÓN RALLO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$18.95"
+    },
+    {
+      "id": "978842342567",
+      "title": "INVIRTIENDO A LARGO PLAZO",
+      "author": "FRANCISCO GARCÍA PARAMÉS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$25.95"
+    },
+    {
+      "id": "978849404339",
+      "title": "EL PRECIO DE TODO",
+      "author": "RUSS ROBERTS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.60"
+    },
+    {
+      "id": "978607313346",
+      "title": "EL JUEGO DEL DINERO",
+      "author": "ROBERT T. KIYOSAKI",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$12.95"
+    }
+  ],
+  "espiritualidad": [
+    {
+      "id": "978843216306",
+      "title": "LA FE ES RAZONABLE: CÓMO COMPRENDER, EXPLICAR Y DEFENDER LA FE CATÓLICA",
+      "author": "HAHN, SCOTT",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$22.95"
+    },
+    {
+      "id": "978841871568",
+      "title": "EL ENIGMA DE LOS TEMPLOS ESTELARES",
+      "author": "IVÁN MARTÍNEZ JUAN",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978841243156",
+      "title": "EL UNIVERSO COMO UNA OBRA DE ARTE",
+      "author": "WILLIAM K. MAHONY",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$47.95"
+    },
+    {
+      "id": "978841874160",
+      "title": "MEMORIAS DE UN MONJE BUDISTA",
+      "author": "MATTHIEU RICARD",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$33.95"
+    },
+    {
+      "id": "978849199447",
+      "title": "NATURALEZA SAGRADA",
+      "author": "KAREN ARMSTRONG",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$27.95"
+    },
+    {
+      "id": "978843216199",
+      "title": "JESÚS Y LAS RAÍCES JUDÍAS DE MARÍA",
+      "author": "BRANT PITRE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$25.95"
+    },
+    {
+      "id": "978843216189",
+      "title": "SANTO TOMÁS DE AQUINO",
+      "author": "G. K. CHESTERTON",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978843012129",
+      "title": "EL PRECIO DE LA GRACIA. EL SEGUIMIENTO",
+      "author": "DIETRICH BONHOEFFER",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978841245785",
+      "title": "ESTA VIDA",
+      "author": "MARTIN HÄGGLUND",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$34.95"
+    },
+    {
+      "id": "978848445950",
+      "title": "KARMA. GUÍA YOGUI PARA CREAR TU DESTINO",
+      "author": "SADHGURU",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$20.95"
+    },
+    {
+      "id": "978841364065",
+      "title": "LOS ÚLTIMOS DÍAS DEL BUDDHA",
+      "author": "",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$31.95"
+    },
+    {
+      "id": "978842883860",
+      "title": "SINODALIDAD Y REFORMA",
+      "author": "RAFAEL LUCIANI; SERENA NOCETI; CARLOS SCHICKENDANTZ",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$33.95"
+    }
+  ],
+  "estilo-de-vida": [
+    {
+      "id": "978844154678",
+      "title": "MIS POSTRES PARA TRIUNFAR",
+      "author": "PAMELA SÁNCHEZ SOTOMAYOR",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$34.95"
+    },
+    {
+      "id": "978841948304",
+      "title": "EL LIBRO DEL PAN",
+      "author": "CHAD ROBERTSON; JENNIFER LATHAM",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$49.95"
+    },
+    {
+      "id": "978841948303",
+      "title": "COCINA ANIME",
+      "author": "DIANA AULT",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$27.95"
+    },
+    {
+      "id": "978840826437",
+      "title": "COCINA FÁCIL Y RICO",
+      "author": "KARLOS ARGUIÑANO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$35.95"
+    },
+    {
+      "id": "978841948301",
+      "title": "EN CASA DE ISABEL PÉREZ - ALITER DULCIA",
+      "author": "PÉREZ SARDIÑA, ISABEL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$21.95"
+    },
+    {
+      "id": "978841588776",
+      "title": "SABOR",
+      "author": "STANLEY TUCCI",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$27.95"
+    },
+    {
+      "id": "978841948300",
+      "title": "LAS RECETAS DEL MUNDO EN LAS PELIS DE ANIMACIÓN",
+      "author": "MINH-TRI VO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$26.95"
+    },
+    {
+      "id": "978844154661",
+      "title": "LA BIBLIA DE LA COCINA VEGANA",
+      "author": "GLORIA CARRIÓN MOÑIZ",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$42.95"
+    },
+    {
+      "id": "978841874164",
+      "title": "EL GRAN LIBRO DEL HUMOR ESPAÑOL",
+      "author": "JAIME RUBIO HANCOCK",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$27.95"
+    },
+    {
+      "id": "978844154660",
+      "title": "KETO FÁCIL",
+      "author": "RAQUEL KETO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$29.95"
+    },
+    {
+      "id": "978841925065",
+      "title": "PAN CASERO - NVA. ED. 2022",
+      "author": "IBAN YARZA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$27.95"
+    },
+    {
+      "id": "978841245089",
+      "title": "SEFARDÍ. COCINAR LA HISTORIA",
+      "author": "HÉLÈNE JAWHARA PIÑER",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$34.95"
+    }
+  ],
+  "ficción": [
+    {
+      "id": "978846706854",
+      "title": "LA VOZ DE LOS VALIENTES",
+      "author": "RAFAEL TARRADAS BULTÓ",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$29.95"
+    },
+    {
+      "id": "978843224168",
+      "title": "CASTILLOS DE FUEGO",
+      "author": "IGNACIO MARTÍNEZ DE PISÓN",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$31.95"
+    },
+    {
+      "id": "978840826830",
+      "title": "LA SECTA",
+      "author": "CAMILLA LÄCKBERG; HENRIK FEXEUS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$32.95"
+    },
+    {
+      "id": "978841962002",
+      "title": "LA ENFERMERA DE AUSCHWITZ",
+      "author": "ANNA STUART",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$17.95"
+    },
+    {
+      "id": "978842336275",
+      "title": "NOSOTROS",
+      "author": "MANUEL VILAS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$29.95"
+    },
+    {
+      "id": "978841107228",
+      "title": "HIJOS DE LA FABULA",
+      "author": "FERNANDO ARAMBURU",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$28.95"
+    },
+    {
+      "id": "978849129733",
+      "title": "UNA VEZ FUIMOS FAMOSOS",
+      "author": "MIGUEL ALCANTUD",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$21.95"
+    },
+    {
+      "id": "978846706719",
+      "title": "EL CANTAR DE LIÉBANA",
+      "author": "PERIDIS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$28.95"
+    },
+    {
+      "id": "978842336271",
+      "title": "NADIE EN ESTA TIERRA",
+      "author": "VÍCTOR DEL ÁRBOL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$29.95"
+    },
+    {
+      "id": "978841844083",
+      "title": "LA CASA DE LAS LENGUAS",
+      "author": "JAMES DASHNER",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$23.95"
+    },
+    {
+      "id": "978842045602",
+      "title": "LAS MADRES (LA NOVIA GITANA 4)",
+      "author": "CARMEN MOLA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$21.95"
+    },
+    {
+      "id": "978842642411",
+      "title": "LIMPIA",
+      "author": "ALIA TRABUCCO ZERÁN",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$19.95"
+    }
+  ],
+  "humanidades": [
+    {
+      "id": "978841874167",
+      "title": "APRENDER A HACER EL AMOR",
+      "author": "ALEXANDRE LACROIX",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978841903615",
+      "title": "ESCRITOS SOBRE ARTE, LITERATURA Y MÚSICA. (1845-1866)",
+      "author": "CHARLES BAUDELAIRE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$69.95"
+    },
+    {
+      "id": "978844933978",
+      "title": "DESPOSESIÓN",
+      "author": "JUDITH BUTLER; ATHENA ATHANASIOU",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$27.95"
+    },
+    {
+      "id": "978844605259",
+      "title": "ARQUEOLOGÍA",
+      "author": "RENFREW, COLIN; BAHN, PAUL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$62.95"
+    },
+    {
+      "id": "978841243155",
+      "title": "NATURALEZA ESENCIAL. EL ALMA DE LA MATERIA",
+      "author": "CHRISTIAN DE QUINCEY",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$43.95"
+    },
+    {
+      "id": "978841245783",
+      "title": "EL BUEN ANTEPASADO",
+      "author": "ROMAN KRZNARIC",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$28.95"
+    },
+    {
+      "id": "978841852651",
+      "title": "LIBROS (1955-1973). OBRAS COMPLETAS III - MARÍA ZAMBRANO - REVISADO",
+      "author": "MARÍA ZAMBRANO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$63.95"
+    },
+    {
+      "id": "NOportada",
+      "title": "CIUDADELAS DE LA SOBERBIA",
+      "author": "MARTHA C. NUSSBAUM",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$29.95"
+    },
+    {
+      "id": "NOportada",
+      "title": "EL ARTE DE VIVIR COMO UN ESTOICO",
+      "author": "DAVID FIDELER",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$21.95"
+    },
+    {
+      "id": "978842493951",
+      "title": "RETÓRICA",
+      "author": "ARISTÓTELES",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$27.95"
+    },
+    {
+      "id": "978841362748",
+      "title": "LA BIBLIOTECA DE NOCHE",
+      "author": "ALBERTO MANGUEL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "24.95"
+    },
+    {
+      "id": "978841362746",
+      "title": "UNA HISTORIA DE LA LECTURA",
+      "author": "ALBERTO MANGUEL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    }
+  ],
+  "infantiles": [
+    {
+      "id": "978841238613",
+      "title": "BLANCANIEVES Y OTROS CUENTOS DE LOS GRIMM",
+      "author": "HERMANOS GRIMM",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$47.95"
+    },
+    {
+      "id": "978840825376",
+      "title": "LAS RATITAS 8. EL BOSQUE DE LAS HADAS LUMINOSAS",
+      "author": "LAS RATITAS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$21.95"
+    },
+    {
+      "id": "978841883085",
+      "title": "EXPLORA LA ANTÁRTIDA EN 360 GRADOS",
+      "author": "TANIA MEDVEDEVA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$32.95"
+    },
+    {
+      "id": "978841240529",
+      "title": "FRANÇOIS TRUFFAUT EL NIÑO QUE AMABA EL CINE",
+      "author": "LUCA TORTOLINI",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978841893997",
+      "title": "DISNEY. 365 CUENTOS. UNA HISTORIA PARA CADA DÍA VOL. 3",
+      "author": "EQUIPO DISNEY",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$22.95"
+    },
+    {
+      "id": "978841861018",
+      "title": "MARVEL. 52 CUENTOS PARA TODO EL AÑO",
+      "author": "EQUIPO MARVEL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978840826011",
+      "title": "LA GUÍA TOTAL DE DINOSAURIOS",
+      "author": "LAS AVENTURAS DE DANI Y EVAN",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$21.95"
+    },
+    {
+      "id": "978846793641",
+      "title": "LAS CHICAS Y LOS CHICOS TAMBIE´N... ¡PUEDEN!",
+      "author": "SOPHIE GOURION; ISABELLE MAROGER",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$21.95"
+    },
+    {
+      "id": "978841818241",
+      "title": "GRANDES CLÁSICOS, VOLUMEN 7",
+      "author": "EQUIPO DISNEY",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$19.95"
+    },
+    {
+      "id": "978840825367",
+      "title": "LAS RATITAS 7. CUPCAKES CON SORPRESA",
+      "author": "LAS RATITAS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$21.95"
+    },
+    {
+      "id": "978607381200",
+      "title": "MI ABUELA LA LOCA",
+      "author": "JOSÉ IGNACIO VALENZUELA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$12.95"
+    },
+    {
+      "id": "978841883041",
+      "title": "EN UN SEGUNDO",
+      "author": "SOLEDAD ROMERO MARIÑO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$23.95"
+    }
+  ],
+  "juveniles": [
+    {
+      "id": "978840826792",
+      "title": "EL ARTE DE SER NOSOTROS",
+      "author": "INMA RUBIALES",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978840826670",
+      "title": "BIRTHDAY GIRL",
+      "author": "PENELOPE DOUGLAS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978846795915",
+      "title": "JOURNEY. THE ART OF CARLES DALMAU",
+      "author": "CHARLES DALMAU",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$36.95"
+    },
+    {
+      "id": "978841941908",
+      "title": "SOMOS NOSOTROS LOS QUE ESTAMOS AQUÍ AHORA",
+      "author": "JOSTEIN GAARDER",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$25.95"
+    },
+    {
+      "id": "978840825854",
+      "title": "PUNK 57",
+      "author": "PENELOPE DOUGLAS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$26.95"
+    },
+    {
+      "id": "978840825944",
+      "title": "ESTUCHE TRILOGÍA EL VERANO EN QUE ME ENAMORÉ",
+      "author": "JENNY HAN",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$36.95"
+    },
+    {
+      "id": "978842467193",
+      "title": "ODIO FINGIDO",
+      "author": "ANDREA SMITH",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978840825389",
+      "title": "LA CASA EN EL MAR MÁS AZUL",
+      "author": "TJ KLUNE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$26.95"
+    },
+    {
+      "id": "978840825711",
+      "title": "UNA CORTE DE NIEBLA Y FURIA. UNA CORTE DE ROSAS Y ESPINAS 2",
+      "author": "SARAH J. MAAS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$26.95"
+    },
+    {
+      "id": "978840825712",
+      "title": "UNA CORTE DE ALAS Y RUINA. UNA CORTE DE ROSAS Y ESPINAS 3",
+      "author": "SARAH J. MAAS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$26.95"
+    },
+    {
+      "id": "978840825710",
+      "title": "UNA CORTE DE ROSAS Y ESPINAS. UNA CORTE DE ROSAS Y ESPINAS 1",
+      "author": "SARAH J. MAAS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$26.95"
+    },
+    {
+      "id": "978607078340",
+      "title": "LA CADENA DE HIERRO",
+      "author": "CASSANDRA CLARE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$22.95"
+    }
+  ],
+  "lengua": [
+    {
+      "id": "978841874162",
+      "title": "EL ESPAÑOL ES UN MUNDO",
+      "author": "LOLA PONS RODRÍGUEZ",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$27.95"
+    },
+    {
+      "id": "978848393323",
+      "title": "ESCRIBIR LITERATURA INFANTIL Y JUVENIL",
+      "author": "CHIKI FABREGAT",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$34.95"
+    },
+    {
+      "id": "978841925031",
+      "title": "VOCABULARIO BÁSICO DEL FRANCÉS",
+      "author": "EQUIPO LAROUSSE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$17.95"
+    },
+    {
+      "id": "978841245790",
+      "title": "LA CIENCIA DE CONTAR HISTORIAS",
+      "author": "WILL STORR ",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$23.95"
+    },
+    {
+      "id": "978841888244",
+      "title": "GRAMÁTICA FRANCESA. MANUAL PRÁCTICO",
+      "author": "EQUIPO LAROUSSE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$19.95"
+    },
+    {
+      "id": "978843764404",
+      "title": "MICROLITERATURAS",
+      "author": "JESÚS RODRÍGUEZ-VELASCO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978841847348",
+      "title": "SINÓNIMOS Y ANTÓNIMOS",
+      "author": "EQUIPO LAROUSSE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$22.95"
+    },
+    {
+      "id": "978844605064",
+      "title": "MANUAL DE SINTAXIS MINIMISTA ",
+      "author": "ÁNGEL J. GALLEGO ",
+      "availability": "En inventario - consultar disponibilidad ",
+      "price": "$29.95"
+    },
+    {
+      "id": "978846706429",
+      "title": "CRÓNICA DE LA LENGUA ESPAÑOLA 2021",
+      "author": "REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA LENGUA ESPAÑOLA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$48.95"
+    },
+    {
+      "id": "978841880708",
+      "title": "PARA ESCRIBIR HAY QUE LEER",
+      "author": "SANTONI, VANNI ",
+      "availability": "En inventario - consultar disponibilidad ",
+      "price": "$22.95"
+    },
+    {
+      "id": "978844933819",
+      "title: ": "EL DISCURSO AMOROSO ",
+      "author: ": "BARTHES, ROLAND; ROLAND BARTHES ",
+      "availability": "En inventario - consultar disponibilidad ",
+      "price": "$52.95"
+    },
+    {
+      "id": "978848393297",
+      "title": "ESCRIBIR NOVELA. MANUAL PARA NOVELISTAS",
+      "author": "ESCUELA DE ESCRITORES",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$32.95"
+    }
+  ],
+  "libros-de-regalo": [
+    {
+      "id": "978074402569",
+      "title": "SEGUNDA GUERRA MUNDIAL MAPA A MAPA",
+      "author": "EQUIPO DK",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$40.00"
+    },
+    {
+      "id": "978074402776",
+      "title": "DC COMICS. CRÓNICA VISUAL DEFINITIVA",
+      "author": "EQUIPO DK",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$50.00"
+    },
+    {
+      "id": "978840102504",
+      "title": "PARA MAMÁ",
+      "author": "ELMA VAN VLIET",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$11.95"
+    },
+    {
+      "id": "978074402562",
+      "title": "FAUNA",
+      "author": "EQUIPO DK",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$50.00"
+    },
+    {
+      "id": "978164473166",
+      "title": "BECOMING",
+      "author": "MICHELLE OBAMA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$19.99"
+    },
+    {
+      "id": "978848298879",
+      "title": "EL IMPERIO ROMANO",
+      "author": "EQUIPO NATIONAL GEOGRAPHIC",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$39.95"
+    },
+    {
+      "id": "978841780038",
+      "title": "SI / IF",
+      "author": "RUDYARD KIPLING",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$21.95"
+    },
+    {
+      "id": "978840821628",
+      "title": "GUINNESS WORLD RECORDS 2020 (ED. LATINOAMERICANA)",
+      "author": "GUINNESS WORLD RECORDS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$34.95"
+    },
+    {
+      "id": "978840821071",
+      "title": "ÁRBOLES EXTRAORDINARIOS",
+      "author": "TONY KIRKHAM; CHRISTINA HARRISON",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$34.95"
+    },
+    {
+      "id": "978841765179",
+      "title": "PLANETA TIERRA",
+      "author": "RACHEL IGNOTOFSKY",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$31.95"
+    },
+    {
+      "id": "978146548525",
+      "title": "ALIMENTOS DEL MUNDO",
+      "author": "EQUIPO DK",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$40.00"
+    },
+    {
+      "id": "978146548526",
+      "title": "ARTE. LA HISTORIA VISUAL DEFINITIVA",
+      "author": "ANDREW GRAHAM-DIXON",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$50.00"
+    },
+    {
+      "id": "978146548527",
+      "title": "DISNEY. EL LIBRO DE LAS IDEAS",
+      "author": "EQUIPO DK",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.99"
+    },
+    {
+      "id": "978848298480",
+      "title": "GRECIA CLÁSICA",
+      "author": "EQUIPO NATIONAL GEOGRAPHIC",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$37.95"
+    },
+    {
+      "id": "978840102296",
+      "title": "ABUELO, ¿ME CUENTAS TU HISTORIA?",
+      "author": "ELMA VAN VLIET",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$19.95"
+    },
+    {
+      "id": "978840102250",
+      "title": "PAPÁ, ¿ME CUENTAS TU HISTORIA?",
+      "author": "ELMA VAN VLIET",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$19.95"
+    },
+    {
+      "id": "978146547877",
+      "title": "MARAVILLAS DEL MUNDO NATURAL",
+      "author": "EQUIPO DK",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$50.00"
+    },
+    {
+      "id": "978840351736",
+      "title": "EL EXPLICADOR DE COSAS",
+      "author": "RANDALL MUNROE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978146547874",
+      "title": "LIBROS QUE HAN CAMBIADO LA HISTORIA",
+      "author": "EQUIPO DK",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$30.00"
+    },
+    {
+      "id": "978146547876",
+      "title": "ARTISTAS. SU VIDA Y SU OBRA",
+      "author": "EQUIPO DK",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$40.00"
+    }
+  ],
+  "literatura-y-estudios-literarios": [
+    {
+      "id": "978840103142",
+      "title": "UNA HISTORIA COMPARTIDA",
+      "author": "JULIA NAVARRO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$22.95"
+    },
+    {
+      "id": "978843391925",
+      "title": "UN AMOR ESPAÑOL",
+      "author": "LUNA MIGUEL",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$19.95"
+    },
+    {
+      "id": "978841871568",
+      "title": "EL ENIGMA DE LOS TEMPLOS ESTELARES",
+      "author": "IVÁN MARTÍNEZ JUAN",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978841903615",
+      "title": "ESCRITOS SOBRE ARTE, LITERATURA Y MÚSICA. (1845-1866)",
+      "author": "CHARLES BAUDELAIRE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$69.95"
+    },
+    {
+      "id": "978841903612",
+      "title": "LOS HOMBRES NO SON ISLAS",
+      "author": "NUCCIO ORDINE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$24.95"
+    },
+    {
+      "id": "978842705029",
+      "title": "SI TÚ QUIERES, TE BAJAS LA LUNA",
+      "author": "LUNA JAVIERRE",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$22.95"
+    },
+    {
+      "id": "978841251969",
+      "title": "MI DIOS NO VE",
+      "author": "RAUL ZURITA",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$39.95"
+    },
+    {
+      "id": "978842640763",
+      "title": "UNA SOLA VIDA",
+      "author": "MANUEL VILAS",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$26.95"
+    },
+    {
+      "id": "978841107147",
+      "title": "UN AÑO Y TRES MESES",
+      "author": "LUIS GARCIA MONTERO",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$23.95"
+    },
+    {
+      "id": "978841248205",
+      "title": "LA ALEGRÍA DE LAS PEQUEÑAS COSAS",
+      "author": "HANNAH JANE PARKINSON",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$30.95"
+    },
+    {
+      "id": "978841259211",
+      "title": "CRISTAL, IRONÍA Y DIOS",
+      "author": "ANNE CARSON",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$39.95"
+    },
+    {
+      "id": "978849271921",
+      "title": "CAZA MAYOR",
+      "author": "BEN AMÍ FIHMAN",
+      "availability": "En inventario - consultar disponibilidad",
+      "price": "$1.00"
+    }
+  ],
+  "matemáticas-y-ciencia": [],
+  "material-didáctico": [],
   "medicina": [],
   "pre-adolescente": [],
-  "sociedad y ciencias sociales": [],
-  "tecnología. ingeniería y agricultura": [],
-  "viajes y vacaciones": []
+  "sociedad-y-ciencias-sociales": [],
+  "tecnología.-ingeniería-y-agricultura": [],
+  "viajes-y-vacaciones": []
 }
