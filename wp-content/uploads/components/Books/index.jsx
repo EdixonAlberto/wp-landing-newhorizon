@@ -60,7 +60,11 @@ function Books() {
         <ul className="books-container">
           {display.map(book => (
             <li key={book.id} className="books-item">
-              <img className="books-item-image" src={`/wp-content/uploads/${book.id}.GIF`} alt={book.title} />
+              <img
+                className="books-item-image"
+                src={`/wp-content/uploads/${book.id}.${book.id === 'NOportada' ? 'jpg' : 'GIF'}`}
+                alt={book.title}
+              />
               <div className="books-item-content">
                 <p className="title">{book.title}</p>
                 <p className="author">{book.author}</p>
