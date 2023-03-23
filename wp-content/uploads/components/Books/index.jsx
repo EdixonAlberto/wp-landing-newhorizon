@@ -1,10 +1,13 @@
-// DYNAMIC-URL
+// DYNAMIC-URL _________________________________________________________________________________________________________
 const { search, origin } = window.location
 const queryString = search.substring(1)
 if (!queryString) window.location.href = origin
+
 const [categoryLink] = queryString.split('&')[0].split('=')
 const categoryKey = decodeURI(categoryLink)
 history.pushState(null, '', categoryKey)
+
+const books = JSON.parse(localStorage.getItem('store'))['books'][categoryKey]
 
 // _____________________________________________________________________________________________________________________
 
@@ -41,13 +44,16 @@ function usePagination({ items = [], size = 12 }) {
 }
 
 function Books() {
-  const books = JSON.parse(localStorage.getItem('store'))['books'][categoryKey]
   const { current, pages, display, next, previous } = usePagination({ items: books })
 
   function getTitle(key) {
     const name = key.split('-').join(' ')
     const title = name.substring(0, 1).toUpperCase() + name.substring(1)
     return title
+  }
+
+  function goBook(id) {
+    window.location.href = `${origin}/book/${categoryKey}_${id}`
   }
 
   return (
@@ -64,9 +70,13 @@ function Books() {
                 className="books-item-image"
                 src={`/wp-content/uploads/${book.id}.${book.id === 'NOportada' ? 'jpg' : 'GIF'}`}
                 alt={book.title}
+                draggable="false"
+                onClick={() => goBook(book.id)}
               />
               <div className="books-item-content">
-                <p className="title">{book.title}</p>
+                <p className="title" onClick={() => goBook(book.id)}>
+                  {book.title}
+                </p>
                 <p className="author">{book.author}</p>
                 <div className="available">
                   <span>{book.availability}</span>

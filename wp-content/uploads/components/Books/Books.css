@@ -44,6 +44,8 @@
 }
 
 .books-item-image {
+  cursor: pointer;
+  user-select: none;
   max-width: 130px !important;
   height: auto !important;
 }
@@ -53,6 +55,7 @@
 }
 
 .books-item-content .title {
+  cursor: pointer;
   font-size: 13px;
   font-weight: 600;
   color: #000;
