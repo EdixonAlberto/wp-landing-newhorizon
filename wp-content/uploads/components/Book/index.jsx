@@ -44,8 +44,8 @@ function Book() {
                 <p>{book.content.year}</p>
                 <p>{book.content.subject}</p>
                 <p>{book.content.isbn}</p>
-                <p>{book.content.pages}</p>
-                <p>{book.content.binding}</p>
+                {book.content.pages && <p>{book.content.pages}</p>}
+                {book.content.binding && <p>{book.content.binding}</p>}
                 <p>{book.content.collection}</p>
               </div>
             </div>
