@@ -1,0 +1,42 @@
+.form-custom form {
+  width: 100%;
+}
+
+.form-custom form .wpcf7-form-control-wrap {
+  width: 70%;
+}
+
+.form-custom form p label {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.form-custom form input:not(.wpcf7-submit) {
+  width: 100% !important;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
+}
+
+/* .form-custom form input:not(.wpcf7-submit)::selection {
+
+} */
+
+.form-custom form input.wpcf7-submit {
+  width: max-content;
+  margin: 0;
+  padding: 6px 12px !important;
+  background-color: #316225 !important;
+  border-radius: 3px !important;
+  font-size: 12px;
+}
+
+.form-custom form input.wpcf7-submit:hover {
+  background-color: #274e1e !important;
+}
+
+.form-custom form textarea {
+  height: 140px;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
+}
