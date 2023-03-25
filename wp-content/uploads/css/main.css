@@ -1,0 +1,17 @@
+@media screen and (min-width: 1280px) and (max-width: 1440px) {
+  .elementor-14 .elementor-element.elementor-element-49dd3b8,
+  .elementor-14 .elementor-element.elementor-element-0a1db3c,
+  .elementor-14 .elementor-element.elementor-element-d0e68c2,
+  .elementor-11 .elementor-element.elementor-element-62137bc,
+  .elementor-11 .elementor-element.elementor-element-5db00af1,
+  .elementor-1144 .elementor-element.elementor-element-0f635d8,
+  .elementor-1130 .elementor-element.elementor-element-3be9f9a5,
+  .elementor-1142 .elementor-element.elementor-element-7575daa7,
+  .elementor-1146 .elementor-element.elementor-element-955025f,
+  .elementor-1022 .elementor-element.elementor-element-78b1dc56,
+  .elementor-193 .elementor-element.elementor-element-440c2478,
+  .elementor-1004 .elementor-element.elementor-element-567ae80 {
+    --padding-right: 10%;
+    --padding-left: 10%;
+  }
+}

@@ -109,3 +109,123 @@ Mar 21 2023 16:52:54
 Mar 21 2023 16:52:55
 {"type":8192,"message":"Creation of dynamic property WprAddons\\Classes\\WprPluginSaleNotice::$remind_me_later is deprecated","file":"C:\\xampp\\htdocs\\scrappinglabs\\wp-content\\plugins\\royal-elementor-addons\\classes\\plugin-sale-notice.php","line":15}
 
+Mar 26 2023 00:41:06
+{"Number":8192,"Message":"explode(): Passing null to parameter #2 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\all-in-one-wp-migration\\functions.php","Line":338}
+
+Mar 26 2023 00:41:06
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:41:09
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:41:13
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:41:17
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:41:27
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:41:39
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:41:51
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:42:03
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:42:14
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:42:26
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:42:38
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:42:50
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:43:02
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:43:14
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:43:26
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:43:38
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:43:49
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:44:01
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:44:12
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:44:24
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:44:35
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:44:47
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:44:59
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:45:11
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:45:22
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:45:34
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:45:46
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:45:57
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:46:09
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:46:20
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:46:32
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:46:43
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:46:55
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:47:07
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:47:11
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:47:15
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:47:17
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:47:19
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
+Mar 26 2023 00:47:20
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\newhorizon\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
+
